@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jonchki-artifact version="1.0">
+	<info group="com.github.stevedonovan"
+	      module="penlight"
+	      artifact="lua5.1-penlight"
+	      version="${PROJECT_VERSION}"
+	      vcs-id="${PROJECT_VERSION_VCS}">
+		<license name="MIT"/>
+		<author name="Steve Donovan, David Manura" url="https://github.com/stevedonovan/Penlight" />
+		<description>
+			A set of pure Lua libraries focusing on input data handling (such as reading
+			configuration files), functional programming (such as map, reduce, placeholder
+			expressions,etc), and OS path management. Much of the functionality is
+			inspired by the Python standard libraries.
+		</description>
+	</info>
+	<dependencies>
+		<dependency group="org.lua" module="lua" artifact="lua5.1" version="5.1.5.1"/>
+	</dependencies>
+</jonchki-artifact>
