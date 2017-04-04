@@ -15,6 +15,6 @@
 		</description>
 	</info>
 	<dependencies>
-		<dependency group="org.lua" module="lua" artifact="lua5.2" version="5.2.4.1"/>
+		<dependency group="org.lua" module="lua" artifact="lua5.2" version="5.2"/>
 	</dependencies>
 </jonchki-artifact>
