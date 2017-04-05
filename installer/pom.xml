@@ -2,7 +2,7 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.stevedonovan</groupId>
-	<artifactId>lua5.1-penlight</artifactId>
+	<artifactId>penlight</artifactId>
 	<version>${PROJECT_VERSION}</version>
 	<packaging>zip</packaging>
 </project>
