@@ -36,10 +36,10 @@ import tarfile
 #
 # Depack the source archive.
 #
-tSrcArchive = tarfile.open('Penlight-1.5.0.tar.gz', 'r')
+tSrcArchive = tarfile.open('Penlight-1.5.2.tar.gz', 'r')
 tSrcArchive.extractall('targets/depack')
 tSrcArchive.close()
-strDepackPath = 'targets/depack/Penlight-1.5.0/'
+strDepackPath = 'targets/depack/Penlight-1.5.2/'
 
 #----------------------------------------------------------------------------
 #
