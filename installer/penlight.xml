@@ -4,7 +4,7 @@
 	      module="penlight"
 	      artifact="penlight"
 	      version="${PROJECT_VERSION}"
-	      vcs-id="${PROJECT_VERSION_VCS}">
+	      vcs-id="${PROJECT_VERSION_VCS_LONG}">
 		<license name="MIT"/>
 		<author name="Steve Donovan, David Manura" url="https://github.com/stevedonovan/Penlight" />
 		<description>
